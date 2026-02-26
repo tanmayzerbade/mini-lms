@@ -68,6 +68,7 @@ app/
 ├── [id].tsx
 ├── webview.tsx
 ├── _layout.tsx
+├── index.tsx
 │
 ├── (auth)/
 │   ├── login.tsx
